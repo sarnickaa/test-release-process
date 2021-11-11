@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2021-11-11)
+### Feature
+* Updating semantic-release workflow ([`f6b4ef3`](https://github.com/sarnickaa/test-release-process/commit/f6b4ef34b4d26e2728ed458f8d98124b9caebaab))
+
 ## v0.2.0 (2021-11-11)
 ### Feature
 * Release notes ([`64cbe19`](https://github.com/sarnickaa/test-release-process/commit/64cbe195c00ce872028ba69e162dc52177454506))
