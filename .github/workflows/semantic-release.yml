@@ -72,17 +72,3 @@ jobs:
 #       uses: relekang/python-semantic-release@master
 #       with:
 #         github_token: ${{ secrets.TEST_MERGE }}
-
-
-
-"enforce_admins", "required_status_checks", "restrictions" weren't supplied.
-
-          required_status_checks: |
-            null
-          enforce_admins: |
-            null
-          required_pull_request_reviews: |
-            null
-          restrictions: | 
-            null 
-
