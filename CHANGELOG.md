@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.1 (2021-11-12)
+### Fix
+* Creates PR lint ([#6](https://github.com/sarnickaa/test-release-process/issues/6)) ([`6713643`](https://github.com/sarnickaa/test-release-process/commit/67136433b8a3c14c2ab5f7c7f45457a63cab9bef))
+
 ## v0.3.0 (2021-11-11)
 ### Feature
 * Updating semantic-release workflow ([`f6b4ef3`](https://github.com/sarnickaa/test-release-process/commit/f6b4ef34b4d26e2728ed458f8d98124b9caebaab))
