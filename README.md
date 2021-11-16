@@ -28,3 +28,5 @@ The issue must be in BDD format and must be accepted.
  - option 2 (MANUAL):       feature -> develop/release
                             develop/release -> main via PR will initiate the semantic-release process
  - option 3: option 2 executed on a cron schedule (monthly, bi-monthly, milestones)
+
+### Adding something 
