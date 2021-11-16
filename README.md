@@ -32,3 +32,4 @@ The issue must be in BDD format and must be accepted.
 ### Adding something 
 
 - New list
+- merge linked test
