@@ -1,0 +1,11 @@
+name: VerifyIssue
+
+on:
+  pull_request:
+    types: [edited, synchronize, opened, reopened]
+
+jobs:
+  - name: Verify Linked Issue
+    uses: hattan/verify-linked-issue-action@v1.1.5
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
