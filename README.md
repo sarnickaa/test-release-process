@@ -34,3 +34,4 @@ The issue must be in BDD format and must be accepted.
 - New list
 - merge linked test
 - manual release test
+- yet another release test
