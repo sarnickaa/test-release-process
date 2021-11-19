@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.6.0 (2021-11-19)
+### Feature
+* Adding debug ([`d7cdf56`](https://github.com/sarnickaa/test-release-process/commit/d7cdf56c47e1276ea2da4d38564b1456c1474160))
+
 ## v0.4.0 (2021-11-18)
 ### Feature
 * Update README.md ([#17](https://github.com/sarnickaa/test-release-process/issues/17)) ([`5fbb4bb`](https://github.com/sarnickaa/test-release-process/commit/5fbb4bb0706c056a4794f18fbaa4f6ae10682412))
