@@ -4,5 +4,6 @@ __version__ = "0.6.0"
 
 setup(
    version=__version__,
+   name=transformation-generator,
    # And so on...
 )
