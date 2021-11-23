@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+### [0.9.1](https://www.github.com/sarnickaa/test-release-process/compare/v0.9.0...v0.9.1) (2021-11-23)
+
+
+### Bug Fixes
+
+* testing patch bump ([#29](https://www.github.com/sarnickaa/test-release-process/issues/29)) ([dc84e52](https://www.github.com/sarnickaa/test-release-process/commit/dc84e52a1d54ae686f8acbc4066ec89fbb71df9c))
+
 ## [0.9.0](https://www.github.com/sarnickaa/test-release-process/compare/v0.8.0...v0.9.0) (2021-11-23)
 
 
