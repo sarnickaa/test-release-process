@@ -35,3 +35,4 @@ The issue must be in BDD format and must be accepted.
 - merge linked test
 - manual release test
 - yet another release test
+- so many changes
