@@ -15,6 +15,17 @@
 ### Bug Fixes
 
 * testing workflow ([#15](https://www.github.com/sarnickaa/test-release-process/issues/15)) ([d389350](https://www.github.com/sarnickaa/test-release-process/commit/d389350da92a18dafe52b380e7e0aee4c5552ade))
+## v0.6.0 (2021-11-19)
+### Feature
+* Adding debug ([`d7cdf56`](https://github.com/sarnickaa/test-release-process/commit/d7cdf56c47e1276ea2da4d38564b1456c1474160))
+
+## v0.4.0 (2021-11-18)
+### Feature
+* Update README.md ([#17](https://github.com/sarnickaa/test-release-process/issues/17)) ([`5fbb4bb`](https://github.com/sarnickaa/test-release-process/commit/5fbb4bb0706c056a4794f18fbaa4f6ae10682412))
+* Adding verify issue ([#13](https://github.com/sarnickaa/test-release-process/issues/13)) ([`2b28911`](https://github.com/sarnickaa/test-release-process/commit/2b28911aafb5c98c6b630cb452bd69118c671263))
+
+### Fix
+* Testing workflow ([#15](https://github.com/sarnickaa/test-release-process/issues/15)) ([`d389350`](https://github.com/sarnickaa/test-release-process/commit/d389350da92a18dafe52b380e7e0aee4c5552ade))
 
 ## v0.3.1 (2021-11-12)
 ### Fix
