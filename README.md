@@ -36,4 +36,4 @@ The issue must be in BDD format and must be accepted.
 - manual release test
 - yet another release test
 - so many changes
-- many chnage. much joy.
+- many change. much joy.
