@@ -2,6 +2,18 @@
 
 <!--next-version-placeholder-->
 
+## [0.9.0](https://www.github.com/sarnickaa/test-release-process/compare/v0.8.0...v0.9.0) (2021-11-23)
+
+
+### Features
+
+* adding in explicit version file path ([#26](https://www.github.com/sarnickaa/test-release-process/issues/26)) ([607d4f0](https://www.github.com/sarnickaa/test-release-process/commit/607d4f04bea86ef1848012b16990a847b8273722))
+
+
+### Bug Fixes
+
+* trying new version read ([#28](https://www.github.com/sarnickaa/test-release-process/issues/28)) ([e6aa7b8](https://www.github.com/sarnickaa/test-release-process/commit/e6aa7b8eb9461f6ffed1093ed1e1b89f861a60e2))
+
 ## [0.8.0](https://www.github.com/sarnickaa/test-release-process/compare/v0.7.0...v0.8.0) (2021-11-23)
 
 
