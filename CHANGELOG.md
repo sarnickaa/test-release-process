@@ -2,6 +2,20 @@
 
 <!--next-version-placeholder-->
 
+## [0.8.0](https://www.github.com/sarnickaa/test-release-process/compare/v0.7.0...v0.8.0) (2021-11-23)
+
+
+### Features
+
+* adding verify issue ([#13](https://www.github.com/sarnickaa/test-release-process/issues/13)) ([2b28911](https://www.github.com/sarnickaa/test-release-process/commit/2b28911aafb5c98c6b630cb452bd69118c671263))
+* Update README.md ([#17](https://www.github.com/sarnickaa/test-release-process/issues/17)) ([5fbb4bb](https://www.github.com/sarnickaa/test-release-process/commit/5fbb4bb0706c056a4794f18fbaa4f6ae10682412))
+* yet another test ([#21](https://www.github.com/sarnickaa/test-release-process/issues/21)) ([098b5a4](https://www.github.com/sarnickaa/test-release-process/commit/098b5a4534600e1d110b26ac604dee53d235ccab))
+
+
+### Bug Fixes
+
+* testing workflow ([#15](https://www.github.com/sarnickaa/test-release-process/issues/15)) ([d389350](https://www.github.com/sarnickaa/test-release-process/commit/d389350da92a18dafe52b380e7e0aee4c5552ade))
+
 ## v0.3.1 (2021-11-12)
 ### Fix
 * Creates PR lint ([#6](https://github.com/sarnickaa/test-release-process/issues/6)) ([`6713643`](https://github.com/sarnickaa/test-release-process/commit/67136433b8a3c14c2ab5f7c7f45457a63cab9bef))
