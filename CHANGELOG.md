@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+### [0.10.1](https://www.github.com/sarnickaa/test-release-process/compare/v0.10.0...v0.10.1) (2021-12-15)
+
+
+### Bug Fixes
+
+* deleting file ([#35](https://www.github.com/sarnickaa/test-release-process/issues/35)) ([0967506](https://www.github.com/sarnickaa/test-release-process/commit/0967506c12ad915ed4eeda37bd5e1a16636e88ac))
+
 ## [0.10.0](https://www.github.com/sarnickaa/test-release-process/compare/v0.9.0...v0.10.0) (2021-11-23)
 
 
