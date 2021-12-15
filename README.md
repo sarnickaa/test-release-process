@@ -15,19 +15,14 @@ The issue must be in BDD format and must be accepted.
 ## RELEASE:
 1. Pull request (PR) to main should enforce the conventional commit format (as expected by sematic-release)
 2. PR should pass unit tests and code coverage, code quality, and outstanding comment checks with the approval of at least one required reviewer.
-3. merge and squash will be performed (potentially automated)
-4. on merge to main, a github action will be initiated to run semantic-release
-    - automatically generate a changelog entry
-    - version file updates
-    - generates tag
+3. merge and squash will be performed
+4. A Github Action running Release Please (https://github.com/googleapis/release-please#release-please) will create a 'release-type' PR on each push to main. This PR will:
+    - automatically generate a changelog entry for all relevant 'feat/bugfix/hotfix' type commits to main made since the last tagged release. 
+    - update version files in semver format
+5. When reviewed and mereged, this 'release-type' PR will:
+    - generate a tag for the release
     - checks in all above release changes
-    - updates github Releases
-    - optionally: can update and publish a packaged version of the project
-5. decision point: when should the release be executed?:
- - option 1: feature -> main via PR will initiate the semantic-release process
- - option 2 (MANUAL):       feature -> develop/release
-                            develop/release -> main via PR will initiate the semantic-release process
- - option 3: option 2 executed on a cron schedule (monthly, bi-monthly, milestones)
+    - updates Github Release Notes
 
 ### Adding something 
 

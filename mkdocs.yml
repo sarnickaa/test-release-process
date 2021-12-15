@@ -1,0 +1,7 @@
+site_name: Transformation Generator
+nav:
+    - Home: index.md
+    - About: about.md
+theme: 
+  name: material
+  favicon: img/favicon.ico
